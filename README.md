@@ -9,4 +9,4 @@
 7. To use Bower on Windows, you must install Git for Windows correctly. `git` command should be available from the terminal, check [this page] (https://www.npmjs.com/package/bower) for the details
 8. install bower dependencies `bower install`
 9. run the project `npm start`
-10. the application should be available in browser by the url `http://localhost:3000`
+10. the application should be available in browser by the url [http://localhost:3000](http://localhost:3000)
