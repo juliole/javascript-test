@@ -23,6 +23,7 @@
     "angular": "^1.5.5",
     "react": "^15.0.1",
     "jquery": "^2.2.3",
-    "bootstrap": "^3.3.6"
+    "bootstrap": "^3.3.6",
+    "babel": "*"
   }
 }
