@@ -12,7 +12,7 @@
 10. the application should be available in browser by the url [http://localhost:3000](http://localhost:3000)
 
 ### Tasks
-Open the test app by the url [http://localhost:3000](http://localhost:3000), you will see the list of tasks for javascript, at the top of the page you can find menu for the different tasks for Angularjs and Reactjs.
+Open the test app by the url [http://localhost:3000](http://localhost:3000), you will see the list of tasks for javascript, at the top of the page you can find menu for the different tasks for Angularjs and Reactjs. All tasks are on green background.
 push changes into your branch and make a pull request when all tasks are done.
 
 ### Note
